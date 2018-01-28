@@ -4,6 +4,7 @@
 
 [Link to Personal repository](https://github.com/TedHaley)  
 [Link to v1.0 Release](https://github.com/TedHaley/mushroom_categories/releases)  
+[Link to Rendered Report](https://github.com/TedHaley/mushroom_categories/blob/master/doc/mushroom_report.pdf)
 
 ## About
 The goal of this project is to determine which features are relevant or irrelevant when determining the toxicity of a mushroom with a particular set of features.
